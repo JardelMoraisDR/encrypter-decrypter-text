@@ -1,5 +1,7 @@
 # Encrypt and Decrypt Text
 
+![Featured Image](EncryptDecryptText/screenshots/EncryptDecryptText.jpg)
+
 Welcome to the **Encrypt and Decrypt Text** project! This tool, built with .NET Framework 4.8 and Windows Forms, provides a simple yet powerful solution for encrypting and decrypting text or files using custom keys.
 
 ## Table of Contents
