@@ -1,0 +1,11 @@
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Release\EncryptDecryptText.exe.config
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Release\EncryptDecryptText.exe
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Release\EncryptDecryptText.pdb
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.csproj.AssemblyReference.cache
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.frmDecrypt.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.frmEncrypt.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.Properties.Resources.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.csproj.GenerateResource.cache
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.csproj.CoreCompileInputs.cache
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.exe
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Release\EncryptDecryptText.pdb

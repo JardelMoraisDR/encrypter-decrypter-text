@@ -1,0 +1,22 @@
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Debug\EncryptDecryptText.exe.config
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Debug\EncryptDecryptText.exe
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Debug\EncryptDecryptText.pdb
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.csproj.AssemblyReference.cache
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.Properties.Resources.resources
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.csproj.GenerateResource.cache
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.csproj.CoreCompileInputs.cache
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.exe
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.pdb
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.frmDecrypt.resources
+C:\Projetos\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.frmEncrypt.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Debug\EncryptDecryptText.exe.config
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Debug\EncryptDecryptText.exe
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\bin\Debug\EncryptDecryptText.pdb
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.csproj.AssemblyReference.cache
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.frmDecrypt.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.frmEncrypt.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.Properties.Resources.resources
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.csproj.GenerateResource.cache
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.csproj.CoreCompileInputs.cache
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.exe
+F:\HD Antigo\Scripts\EncryptDecryptText\EncryptDecryptText\obj\Debug\EncryptDecryptText.pdb
